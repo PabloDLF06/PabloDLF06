@@ -38,12 +38,35 @@ Realicé prácticas en una tienda de informática de barrio (APP Patraix, Valenc
 Mi principal meta es ser el mejor en mi campo, inspirado por el ejemplo profesional y personal de mis padres. Aspiro a que mi trabajo sea valorado y reconocible por su excelencia.
 
 ## Habilidades y Tecnologías
-
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ubuntu,debian,kali,linux,mint,bash,windows,powershell,idea,kotlin,java,docker,maven,gradle,mysql,vacio,vacio,vacio,sqlite,sublime,wordpress,vscode,html,css,js,git,github," />
   </a>
 </p>
+<br>
+<div align="center">
+  <h2>GitHub :octocat:</h2>
+  <p align="center">
+    <table align="center">
+      <tr border="none">
+        <td width="60%" align="center">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=PabloDLF06&theme=dark&show_icons=true&count_private=true" />
+          <br><br>
+          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloDLF06&theme=dark&hide_border=false" /> 
+        </td>
+        <td width="40%" align="center">
+          <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PabloDLF06&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+        </td>
+      </tr>
+    </table>
+    <div align="center">
+      <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+        <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=PabloDLF06&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      </a>
+    </div>
+  </p>        
+</div>
 
 ## Logros
 
