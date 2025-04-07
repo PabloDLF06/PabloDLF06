@@ -4,7 +4,7 @@
 
 ---
 
-## Sobre mí
+## :octocat: Sobre mí
 
 Soy un apasionado estudiante de Desarrollo de Aplicaciones Web. Lo que inicialmente me motivó a adentrarme en este campo fue mi fascinación por HTML y CSS, los cuales había explorado brevemente durante mis estudios en Sistemas Microinformáticos y Redes (SMR). Aunque pensé que el ciclo se centraría únicamente en estos lenguajes, me encontré con Kotlin, que ha capturado mi interés y curiosidad, motivándome a seguir adelante.
 
