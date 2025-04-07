@@ -39,27 +39,11 @@ Mi principal meta es ser el mejor en mi campo, inspirado por el ejemplo profesio
 
 ## Habilidades y Tecnologías
 
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Ubuntu Server](https://img.shields.io/badge/-Ubuntu%20Server-%23E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-%230078D6?style=flat-square&logo=windows&logoColor=white)
-![Windows Server](https://img.shields.io/badge/-Windows%20Server-%230078D6?style=flat-square&logo=windows&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-%230095D5?style=flat-square&logo=kotlin&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-%23005C8F?style=flat-square&logo=mariadb&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-%234A89DC?style=flat-square&logo=sql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)
-![Redes](https://img.shields.io/badge/-Redes-%23000000?style=flat-square&logo=network-wired&logoColor=white)
-![Office](https://img.shields.io/badge/-Office-%23D84315?style=flat-square&logo=microsoft-office&logoColor=white)
-![DataGrip](https://img.shields.io/badge/-DataGrip-%231E88E5?style=flat-square&logo=datagrip&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-%23000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
-![JavaFX](https://img.shields.io/badge/-JavaFX-%230076A3?style=flat-square&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-%233DDC84?style=flat-square&logo=android&logoColor=white)
-![Gradle](https://img.shields.io/badge/-Gradle-%2302303A?style=flat-square&logo=gradle&logoColor=white)
-![GitKraken](https://img.shields.io/badge/-GitKraken-%233498DB?style=flat-square&logo=gitkraken&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,debian,kali,linux,mint,bash,windows,powershell,idea,kotlin,java,docker,maven,gradle,mysql,vacio,vacio,vacio,sqlite,sublime,wordpress,vscode,html,css,js,git,github," />
+  </a>
+</p>
 
 ## Logros
 
