@@ -2,7 +2,8 @@
 
 ### Estudiante de Desarrollo de Aplicaciones Web (DAW)
 
----
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## :octocat: Sobre mí
 
@@ -78,6 +79,7 @@ Mi principal meta es ser el mejor en mi campo, inspirado por el ejemplo profesio
 - **Instagram:** [@pxblodlf_](https://www.instagram.com/pxblodlf_/)
 - **Email:** pablodelafuente.dls@gmail.com
 
-----------------------------------------------------------------------
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún proyecto.
