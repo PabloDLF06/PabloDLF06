@@ -66,7 +66,7 @@ Mi principal meta es ser el mejor en mi campo, inspirado por el ejemplo profesio
         <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=PabloDLF06&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
       </a>
     </div>
-  </p>        
+  </p>
 </div>
 
 ## Logros
