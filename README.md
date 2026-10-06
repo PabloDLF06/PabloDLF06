@@ -17,7 +17,7 @@ Los proyectos que realizo estarán directamente en los repositorios de este perf
 
 - **Educación Secundaria Obligatoria (ESO):** Valencia
 - **Ciclo Formativo de Grado Medio en Sistemas Microinformáticos y Redes (SMR):** Valencia (2 cursos)
-- **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW):** Leganés, Madrid (En curso)
+- **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW):** Leganés, Madrid (Solo primer curso)
 
 ## Contribuciones a la Comunidad
 
